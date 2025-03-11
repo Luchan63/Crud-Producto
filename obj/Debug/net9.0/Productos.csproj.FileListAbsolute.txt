@@ -1,0 +1,14 @@
+/Users/luchan63/Documents/C#/Productos/bin/Debug/net9.0/Productos
+/Users/luchan63/Documents/C#/Productos/bin/Debug/net9.0/Productos.deps.json
+/Users/luchan63/Documents/C#/Productos/bin/Debug/net9.0/Productos.runtimeconfig.json
+/Users/luchan63/Documents/C#/Productos/bin/Debug/net9.0/Productos.dll
+/Users/luchan63/Documents/C#/Productos/bin/Debug/net9.0/Productos.pdb
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.AssemblyInfoInputs.cache
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.AssemblyInfo.cs
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.csproj.CoreCompileInputs.cache
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.dll
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/refint/Productos.dll
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.pdb
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/Productos.genruntimeconfig.cache
+/Users/luchan63/Documents/C#/Productos/obj/Debug/net9.0/ref/Productos.dll
